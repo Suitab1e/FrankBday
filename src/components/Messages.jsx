@@ -90,29 +90,34 @@ const XPButton = styled.button`
 const messages = [
   {
     title: "System Message",
-    content: "Frank detected! Initializing birthday protocol...",
+    content: "FrOnk detected! Initializing birthday protocol...",
     icon: "⚠️"
   },
   {
-    title: "Birthday.exe",
-    content: "Warning: Excessive levels of awesomeness detected in user 'Frank'",
+    title: "Naylor.smsh",
+    content: "Happy birthday d00fus, hope you like this bday e-website. keep it lemon",
     icon: "🎮"
   },
   {
-    title: "Error 420",
-    content: "Task failed successfully: Being too cool for school",
+    title: "Jack.fat",
+    content: "Hi Frank, Hope you have a great 28th. Your mum (129) and dad (297) would be so proud. Love",
+    icon: "🥩"
+  },
+  {
+    title: "StarkieReay.pdf",
+    content: "lots of love from **** x miss you",
     icon: "💀"
   },
   {
-    title: "System32",
-    content: "Frank.dll has stopped working because he's too busy being amazing",
-    icon: "🎂"
+    title: "Jessica.gif",
+    content: "Happy birthday Fronkus! Hope your massive head is filled to the brim with beautiful memories this weekend. Love you xxx",
+    icon: "🫃🏻"
   },
   {
-    title: "Birthday Alert",
-    content: "Critical party levels approaching maximum capacity",
+    title: "Basty.sxc",
+    content: "Frankieeeee, happy birthday you neek :) hope you play some guy-ball and smoke a fatty. One love",
     icon: "🎉"
-  },
+  },  
   {
     title: "Treasure.exe",
     content: "A wild backpack has appeared! Time for a treasure hunt...",
